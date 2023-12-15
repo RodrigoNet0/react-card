@@ -4,7 +4,8 @@
   }
   
 .containerCards{
-    background: var(--tech-color);
+    /*background: var(--tech-color);*/
+    background-color: #9e8692;
 }
 
 
